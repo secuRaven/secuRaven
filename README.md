@@ -9,9 +9,7 @@
 - ⚙️ On a mission to master tools like **Nmap, Nikto, OWASP ZAP, OpenVAS, Burp Suite**, and more.
 - 🤝 Always down for collabs, CTFs, bug bounty hunts, or just nerding out on hacking stuff.
 - 📑 Working on projects like **WebShield Scanner**, **Minor-WS**, and **Scan-Striker**.
-- 📬 Ping me anytime on [LinkedIn](https://www.linkedin.com) or drop a mail  [mail](https://www.linkedin.com/in/priyanshu936)   — always happy to connect with security folks.
-  GitHub: https://github.com/secuRaven
-linkedin: www.linkedin.com/in/priyanshu936
+- 📬 Ping me anytime on [LinkedIn](https://www.linkedin.com) or drop a [mail](https://www.linkedin.com/in/priyanshu936)   — always happy to connect with security folks.
 ---
 
 ## 🛠️ Tools & Technologies
