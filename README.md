@@ -20,7 +20,7 @@ Here are some tools and tech I'm vibing with:
 - 🔍 [Nikto](https://cirt.net/Nikto2)
 - ⚙️ [OWASP ZAP](https://owasp.org/www-project-zap/)
 - 🧠 [OpenVAS](https://www.greenbone.net/en/vulnerability-management/)
-- 🐍 Python, Bash, PowerShell
+- 🐍 Python, Bash
 - 🛠️ Burp Suite, Sqlmap, JohnTheRipper, Hydra
 - 🖥️ VirtualBox, Kali Linux, Parrot OS, Metasploit Framework
 - 🔒 Hashcat, Aircrack-ng
@@ -36,11 +36,12 @@ Here are some tools and tech I'm vibing with:
 
 ## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxu...) <!-- You can add an icon image here or leave plain -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- You can add an icon image here or leave plain -->
 
 ---
 
